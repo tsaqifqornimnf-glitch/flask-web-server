@@ -26,3 +26,4 @@ echo "[WARNING] File .env tidak ditemukan, menggunakan nilai default"
 fi 
 echo "[INFO] Menjalankan Flask Web Server pada port 5000..." 
 exec python server.py 
+# update script
